@@ -1,2 +1,2 @@
-# Nazwa.Net
-C# Client library for consuming Nazwa API
+# CatFacts.Net
+C# Client library for consuming Cat Facts API
